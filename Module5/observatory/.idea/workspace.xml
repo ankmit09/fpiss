@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c4eb82aa-d37c-47cb-b131-233e1684b903" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Worksheet" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1i11yYvPTxPYP0GLV23pEyFVgiu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="capstone-observatory" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="observatory [file:/Users/b062bm/IdeaProjects/coursera/Module5/observatory/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="capstoneUI [file:/Users/b062bm/IdeaProjects/coursera/Module5/observatory/]" />
+                <option name="path" value="$PROJECT_DIR$/capstone-ui" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="capstone-observatory-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="1856750716" />
+        <entry key="$PROJECT_DIR$/project/MOOCSettings.scala" value="21085509" />
+        <entry key="$PROJECT_DIR$/project/StudentTasks.scala" value="2255003577" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="3724303870" />
+        <entry key="$PROJECT_DIR$/project/buildSettings.sbt" value="2992893007" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="2462477588" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../LSL-P-lightbend-scala-language-professional/exercises" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../.." value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Module1/example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Module1/objsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Module1/patmat" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Module2/calculator" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Module2/codecs" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Module2/example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Module2/quickcheck" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Module2/streams" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Module3/barneshut" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Module3/example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Module3/kmeans" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Module3/reductions" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Module3/scalashop" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Module4/example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Module4/stackoverflow" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Module4/timeusage" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Module4/wikipedia" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../forcomp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../funsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../objsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../patmat" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../recfun" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../example/project" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../recfun" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../sherlock-data-core" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4eb82aa-d37c-47cb-b131-233e1684b903" name="Default Changelist" comment="" />
+      <created>1601060538628</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601060538628</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="506" y="248" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1601154838212">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="506" y="248" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.960@0.0.1536.960" timestamp="1601154838212" />
+    <state x="460" y="306" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1601244193711">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="460" y="306" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.960@0.0.1536.960" timestamp="1601244193711" />
+    <state x="345" y="18" width="845" height="924" key="find.popup" timestamp="1601241162510">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="345" y="18" width="845" height="924" key="find.popup/0.0.1536.960@0.0.1536.960" timestamp="1601241162510" />
+  </component>
+</project>

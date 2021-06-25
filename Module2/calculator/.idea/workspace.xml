@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2d66112-5989-4d1e-82e6-2e74c8eac9e7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1gVphPbJa6u0qs8GO64SQgx3XK1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="progfun2-calculator" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="calculator [file:/Users/b062bm/IdeaProjects/coursera/Module2/calculator/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="webUI [file:/Users/b062bm/IdeaProjects/coursera/Module2/calculator/]" />
+                <option name="path" value="$PROJECT_DIR$/web-ui" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="shared-sources" />
+                <option name="path" value="$PROJECT_DIR$/src/main/scala/calculator" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="progfun2-calculator-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="9449075600000" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="1336039959" />
+        <entry key="$PROJECT_DIR$/project/MOOCSettings.scala" value="21085509" />
+        <entry key="$PROJECT_DIR$/project/StudentTasks.scala" value="2255003577" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="3724303870" />
+        <entry key="$PROJECT_DIR$/project/buildSettings.sbt" value="2992893007" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="2462477588" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../LSL-P-lightbend-scala-language-professional/exercises" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../.." value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Module1/example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../codecs" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../quickcheck" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../streams" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../forcomp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../funsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../objsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../patmat" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../recfun" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../example/project" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../recfun" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../sherlock-data-core" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2d66112-5989-4d1e-82e6-2e74c8eac9e7" name="Default Changelist" comment="" />
+      <created>1598209732043</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598209732043</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="473" y="231" width="845" height="616" key="find.popup" timestamp="1598820637378">
+      <screen x="0" y="23" width="1792" height="1032" />
+    </state>
+    <state x="473" y="231" width="845" height="616" key="find.popup/0.23.1792.1032@0.23.1792.1032" timestamp="1598820637378" />
+  </component>
+</project>

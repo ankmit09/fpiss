@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9eaffe2-b216-4282-a865-96398d879d0c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1fqvTTOE6N7NcEZRhmcOKazYzh3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="progfun2-codecs" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="codecs [file:/Users/b062bm/IdeaProjects/coursera/Module2/codecs/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="progfun2-codecs-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="9483107356000" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="1841609151" />
+        <entry key="$PROJECT_DIR$/project/MOOCSettings.scala" value="21085509" />
+        <entry key="$PROJECT_DIR$/project/StudentTasks.scala" value="2255003577" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="3724303870" />
+        <entry key="$PROJECT_DIR$/project/buildSettings.sbt" value="2992893007" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="2462477588" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../LSL-P-lightbend-scala-language-professional/exercises" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../.." value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../quickcheck" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../streams" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../forcomp" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../funsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../objsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../patmat" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../recfun" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../example/project" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../recfun" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../sherlock-data-core" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9eaffe2-b216-4282-a865-96398d879d0c" name="Default Changelist" comment="" />
+      <created>1596958444430</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596958444430</updated>
+    </task>
+    <servers />
+  </component>
+</project>
